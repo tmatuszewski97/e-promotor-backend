@@ -19,7 +19,7 @@ The project was made as a part of my Engineering Thesis. Created system takes ca
 - [Python](https://www.python.org/) (version: 3.9.1)
 - [Amazon S3](https://aws.amazon.com/s3/) (for storing users' files)
 - [MySQL](https://www.mysql.com/) or [PostgreSQL](https://www.postgresql.org/) database system (for develop I used MySQL, for production - PostgreSQL
-- [Django](https://www.djangoproject.com/) (version: 3.1.6)
+- [Django](https://www.djangoproject.com/) (version: 3.1.12)
 - [Django REST framework](https://www.django-rest-framework.org/) (version: 3.12.2)
 - [Django Cleanup](https://pypi.org/project/django-cleanup/) (version: 5.1.0)
 - [Django Storages](https://django-storages.readthedocs.io/en/latest/) (version: 1.11.1)
